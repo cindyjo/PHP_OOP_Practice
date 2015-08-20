@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 # ${1: PHP Object Oriented Programming Practice}
 
 ## Anminal.php
@@ -55,6 +55,6 @@ Assignment: Animal
 	- print_table -> takes an array that has multiple rows of information and make the values of each row appear in the subsequent rows 
 	- print_select -> as the input, this method takes an array AND the name that should be used for the select tag; the method returns a string that is formatted in HTML. For example, say that $sample_array = ("CA", "WA", "UT", "TX", "AZ", "NY") and we call print_select("state", $sample_array) method.
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
+
 </snippet>
